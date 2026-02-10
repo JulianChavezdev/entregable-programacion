@@ -49,3 +49,5 @@ Se calculan y muestran por consola los siguientes datos globales:
 
 ---
 **Desarrollado en Java** utilizando `ArrayList`, `HashSet` y `HashMap`.
+
+**Hecho por JULIAN CHAVEZ**
